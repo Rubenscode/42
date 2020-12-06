@@ -44,4 +44,26 @@ Eu sou o Rubens e sou um Camper passando por um treinamento remoto e imersivo e 
 | Exam-00        	| [1 Level done]                | (failed with 4%)                    |                  
 | Exam-01        	| [0 Levels done]               | (failed with 0%)                    |                 	             	
 |                	|                             	|                                     |           	
-| Final Exam      | [5 Levels done]               | [waiting for evaluation]            |                  
+| Final Exam      | [5 Levels done]               | [waiting for evaluation]            |
+
+### Skills
+
+  <ul>
+    <li>Adaptation & creativity</li>
+    <li>Group & interpersonal</li>
+    <li>Unix</li>
+    <li>Rigor</li>
+    <li>Algorithms & AI</li>
+    <li>Determination</li>
+    <li>Autonomy</li>
+  </ul>
+
+### Languages
+
+  <ul>
+    <li>Shell</li>
+    <li>C</li>
+  </ul>
+    
+    
+
