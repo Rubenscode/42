@@ -84,7 +84,9 @@ Eu sou o Rubens e sou um Camper passando por um treinamento remoto e imersivo e 
   <img src="/Achievements/Super-Helper.png" width="384"/><img src="/Achievements/Super-Comunidade.png" width="384"/>
   <img src="/Achievements/Super-Vila.png" width="384"/>
   <img src="/Achievements/Super-Foco.png" width="384"/>
-
-    
-    
-
+  
+  <br>
+  <p align="center">:sparkles: Congratulations :sparkles:<p>
+  <p  align="center" >
+    <img src="/Achievements/Complete-42Basecamp.png" width="300"/>
+  </p>
