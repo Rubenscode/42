@@ -64,6 +64,27 @@ Eu sou o Rubens e sou um Camper passando por um treinamento remoto e imersivo e 
     <li>Shell</li>
     <li>C</li>
   </ul>
+
+### Achievements :1st_place_medal:
+
+  <img src="/Achievements/Reconhecimento-de-Campo.png" width="394"/><img src="/Achievements/Comunidade-I.png" width="384"/>
+  <img src="/Achievements/Helper-I.png" width="384"/>
+  <img src="/Achievements/Vila-Unida-I.png" width="384"/>
+
+  <img src="/Achievements/Primeiras-Trilhas.png" width="384"/><img src="/Achievements/Comunidade-II.png" width="384"/>
+  <img src="/Achievements/Helper-II.png" width="384"/>
+  <img src="/Achievements/Vila-Unida-II.png" width="384"/>
+  <img src="/Achievements/Foco-I.png" width="384"/>
+
+  <img src="/Achievements/Explorador-I.png" width="384"/><img src="/Achievements/Helper-III.png" width="384"/>
+  <img src="/Achievements/Comunidade-III.png" width="384"/>
+  <img src="/Achievements/Vila-Unida-III.png" width="384"/>
+  <img src="/Achievements/Foco-II.png" width="384"/>
+
+  <img src="/Achievements/Super-Helper.png" width="384"/><img src="/Achievements/Super-Comunidade.png" width="384"/>
+  <img src="/Achievements/Super-Vila.png" width="384"/>
+  <img src="/Achievements/Super-Foco.png" width="384"/>
+
     
     
 
